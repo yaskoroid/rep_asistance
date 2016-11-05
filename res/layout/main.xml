@@ -1,0 +1,42 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/simply_vertical_margin"
+    android:paddingLeft="@dimen/simply_horizontal_margin"
+    android:paddingRight="@dimen/simply_horizontal_margin"
+    android:paddingTop="@dimen/simply_vertical_margin"
+    tools:context="com.example.asistance.Main" >
+
+    <LinearLayout
+   		android:layout_width="fill_parent"
+    	android:layout_height="fill_parent"
+    	android:orientation="vertical">
+
+    	<ListView
+    	    android:id="@+id/lvPersons"
+    	    android:layout_width="match_parent"
+    	    android:layout_height="match_parent"
+    	    android:layout_gravity="bottom"
+    	    android:layout_weight="1" >
+
+    	</ListView>
+    
+	</LinearLayout>
+
+    
+	<Button
+	    android:id="@+id/addPerson"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_gravity="bottom|right"
+	    android:layout_marginBottom="@dimen/simply_vertical_margin"
+	    android:layout_marginLeft="@dimen/simply_horizontal_margin"
+	    android:layout_marginRight="@dimen/simply_horizontal_margin"
+	    android:layout_marginTop="@dimen/simply_vertical_margin"
+	    android:onClick="addPersonClick"
+	    android:text="@string/add_person_text" >
+
+    </Button>
+
+</FrameLayout>

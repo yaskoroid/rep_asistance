@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">Asistance</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="let">лет</string>
+    <string name="god">год</string>
+    <string name="goda">года</string>
+    <string name="add_person_text">Добавить</string>
+    <string name="edit_person_title">Редактирование профиля</string>
+    <string name="edit_person_title_new_person">Добавление нового специалиста</string>
+    <string name="edit_person_sur_name">Фамилия:</string>
+    <string name="edit_person_name">Имя:</string>
+    <string name="edit_person_age">Возраст:</string>
+    <string name="edit_person_city">Город:</string>
+    <string name="edit_person_adapter_title">Выбор города</string>
+    <string name="edit_person_button_ok">OK</string>
+    <string name="edit_person_button_reset">Сброс</string>
+    <string name="edit_person_button_delete">Удалить</string>
+    <string name="edit_person_button_back">Назад</string>
+    <string name="edit_person_toast_saved">Сохранено</string>
+    <string name="edit_person_toast_saved_not">Не сохранено!</string>
+    <string name="edit_person_toast_note_created">Запись создана</string>
+    <string name="edit_person_toast_note_created_not">Запись не создана!</string>
+    <string name="edit_person_toast_fill_all_fields">Заполните все поля!</string>
+    <string name="edit_person_toast_reseted">Сброшено</string>
+    <string name="edit_person_toast_deleted">Удалено</string>
+    <string name="edit_person_toast_deleted_not">Не удалено!</string>
+    <string name="edit_person_toast_error">Ошибка!</string>
+    <string name="edit_person_toast_"/>
+    <string name="edit_person_toast_"/>
+    <string name="edit_person_toast_"/>
+    <string name="city_Kiev">Киев</string>
+    <string name="city_Kharkov">Харьков</string>
+    <string name="city_Odessa">Одесса</string>
+    <string name="city_Lvov">Львов</string>
+</resources>
