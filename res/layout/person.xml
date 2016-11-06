@@ -68,7 +68,6 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginBottom="@dimen/simply_vertical_margin"
-                android:text="sdfsdfsdfsdfs"
                 android:textSize="15sp" />
 
         </LinearLayout>

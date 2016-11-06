@@ -24,7 +24,6 @@
     
 	</LinearLayout>
 
-    
 	<Button
 	    android:id="@+id/addPerson"
 	    android:layout_width="wrap_content"
